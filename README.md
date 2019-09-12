@@ -1,2 +1,3 @@
-1. npm install
-2. npm start
+1. git clone https://github.com/wwwihenryting/whtingtest.git
+2. npm install
+3. npm start
